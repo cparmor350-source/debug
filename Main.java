@@ -4,8 +4,7 @@ public class Main {
         
         System.out.println("=== BIENVENIDO A TU TAMAGOTCHI ===");
         System.out.println();
-        
-        // Probamos las diferentes acciones
+      
         System.out.println("Estado inicial:");
         miTamagotchi.showStats();
         System.out.println();
